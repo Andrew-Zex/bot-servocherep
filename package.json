@@ -1,6 +1,6 @@
 {
   "name": "ServoCherep",
-  "version": "2.1.01",
+  "version": "2.1.1",
   "description": "bot created for  server 'Andrew Zex- Team' ",
   "main": "bot.js",
   "dependencies": {
